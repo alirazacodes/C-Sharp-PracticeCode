@@ -1,0 +1,7 @@
+E:\Practice\C#\Varibales\Varibales\obj\Debug\Varibales.csprojAssemblyReference.cache
+E:\Practice\C#\Varibales\Varibales\obj\Debug\Varibales.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Varibales\Varibales\bin\Debug\Varibales.exe.config
+E:\Practice\C#\Varibales\Varibales\bin\Debug\Varibales.exe
+E:\Practice\C#\Varibales\Varibales\bin\Debug\Varibales.pdb
+E:\Practice\C#\Varibales\Varibales\obj\Debug\Varibales.exe
+E:\Practice\C#\Varibales\Varibales\obj\Debug\Varibales.pdb

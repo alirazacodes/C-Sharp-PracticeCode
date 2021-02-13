@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndTestability", "InterfacesAndTestability\InterfacesAndTestability.csproj", "{C723C1ED-2973-4E18-916F-F9BB0169E063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C723C1ED-2973-4E18-916F-F9BB0169E063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C723C1ED-2973-4E18-916F-F9BB0169E063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C723C1ED-2973-4E18-916F-F9BB0169E063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C723C1ED-2973-4E18-916F-F9BB0169E063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B44D2B-A0E9-4CF4-B8A9-39061AF981A1}
+	EndGlobalSection
+EndGlobal

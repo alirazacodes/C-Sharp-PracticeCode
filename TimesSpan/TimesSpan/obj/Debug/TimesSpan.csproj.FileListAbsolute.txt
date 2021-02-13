@@ -1,0 +1,7 @@
+E:\Practice\C#\TimesSpan\TimesSpan\bin\Debug\TimesSpan.exe.config
+E:\Practice\C#\TimesSpan\TimesSpan\bin\Debug\TimesSpan.exe
+E:\Practice\C#\TimesSpan\TimesSpan\bin\Debug\TimesSpan.pdb
+E:\Practice\C#\TimesSpan\TimesSpan\obj\Debug\TimesSpan.csprojAssemblyReference.cache
+E:\Practice\C#\TimesSpan\TimesSpan\obj\Debug\TimesSpan.csproj.CoreCompileInputs.cache
+E:\Practice\C#\TimesSpan\TimesSpan\obj\Debug\TimesSpan.exe
+E:\Practice\C#\TimesSpan\TimesSpan\obj\Debug\TimesSpan.pdb

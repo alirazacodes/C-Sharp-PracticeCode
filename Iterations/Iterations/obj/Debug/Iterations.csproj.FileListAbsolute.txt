@@ -1,0 +1,7 @@
+E:\Practice\C#\Iterations\Iterations\bin\Debug\Iterations.exe.config
+E:\Practice\C#\Iterations\Iterations\bin\Debug\Iterations.exe
+E:\Practice\C#\Iterations\Iterations\bin\Debug\Iterations.pdb
+E:\Practice\C#\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+E:\Practice\C#\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Iterations\Iterations\obj\Debug\Iterations.exe
+E:\Practice\C#\Iterations\Iterations\obj\Debug\Iterations.pdb

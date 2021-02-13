@@ -1,0 +1,7 @@
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\bin\Debug\LiveCodingSummarisingText.exe.config
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\bin\Debug\LiveCodingSummarisingText.exe
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\bin\Debug\LiveCodingSummarisingText.pdb
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\obj\Debug\LiveCodingSummarisingText.csprojAssemblyReference.cache
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\obj\Debug\LiveCodingSummarisingText.csproj.CoreCompileInputs.cache
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\obj\Debug\LiveCodingSummarisingText.exe
+E:\Practice\C#\LiveCodingSummarisingText\LiveCodingSummarisingText\obj\Debug\LiveCodingSummarisingText.pdb

@@ -1,0 +1,7 @@
+E:\Practice\C#\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+E:\Practice\C#\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+E:\Practice\C#\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+E:\Practice\C#\RandomClass\RandomClass\obj\Debug\RandomClass.csprojAssemblyReference.cache
+E:\Practice\C#\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+E:\Practice\C#\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+E:\Practice\C#\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

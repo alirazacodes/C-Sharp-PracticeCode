@@ -1,0 +1,7 @@
+E:\Practice\C#\ClassesV2\ClassesV2\bin\Debug\ClassesV2.exe.config
+E:\Practice\C#\ClassesV2\ClassesV2\bin\Debug\ClassesV2.exe
+E:\Practice\C#\ClassesV2\ClassesV2\bin\Debug\ClassesV2.pdb
+E:\Practice\C#\ClassesV2\ClassesV2\obj\Debug\ClassesV2.csprojAssemblyReference.cache
+E:\Practice\C#\ClassesV2\ClassesV2\obj\Debug\ClassesV2.csproj.CoreCompileInputs.cache
+E:\Practice\C#\ClassesV2\ClassesV2\obj\Debug\ClassesV2.exe
+E:\Practice\C#\ClassesV2\ClassesV2\obj\Debug\ClassesV2.pdb

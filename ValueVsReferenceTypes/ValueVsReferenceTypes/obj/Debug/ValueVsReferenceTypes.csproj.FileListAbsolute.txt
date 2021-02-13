@@ -1,0 +1,7 @@
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\bin\Debug\ValueVsReferenceTypes.exe.config
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\bin\Debug\ValueVsReferenceTypes.exe
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\bin\Debug\ValueVsReferenceTypes.pdb
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\obj\Debug\ValueVsReferenceTypes.csprojAssemblyReference.cache
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\obj\Debug\ValueVsReferenceTypes.csproj.CoreCompileInputs.cache
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\obj\Debug\ValueVsReferenceTypes.exe
+E:\Practice\C#\ValueVsReferenceTypes\ValueVsReferenceTypes\obj\Debug\ValueVsReferenceTypes.pdb

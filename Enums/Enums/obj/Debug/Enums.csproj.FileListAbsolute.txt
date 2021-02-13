@@ -1,0 +1,7 @@
+E:\Practice\C#\Enums\Enums\bin\Debug\Enums.exe.config
+E:\Practice\C#\Enums\Enums\bin\Debug\Enums.exe
+E:\Practice\C#\Enums\Enums\bin\Debug\Enums.pdb
+E:\Practice\C#\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+E:\Practice\C#\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Enums\Enums\obj\Debug\Enums.exe
+E:\Practice\C#\Enums\Enums\obj\Debug\Enums.pdb

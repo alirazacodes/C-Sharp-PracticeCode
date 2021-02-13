@@ -1,0 +1,7 @@
+E:\Practice\C#\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe.config
+E:\Practice\C#\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe
+E:\Practice\C#\TypeConversions\TypeConversions\bin\Debug\TypeConversions.pdb
+E:\Practice\C#\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csprojAssemblyReference.cache
+E:\Practice\C#\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+E:\Practice\C#\TypeConversions\TypeConversions\obj\Debug\TypeConversions.exe
+E:\Practice\C#\TypeConversions\TypeConversions\obj\Debug\TypeConversions.pdb

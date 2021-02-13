@@ -1,0 +1,7 @@
+E:\Practice\C#\ArraysV2\ArraysV2\bin\Debug\ArraysV2.exe.config
+E:\Practice\C#\ArraysV2\ArraysV2\bin\Debug\ArraysV2.exe
+E:\Practice\C#\ArraysV2\ArraysV2\bin\Debug\ArraysV2.pdb
+E:\Practice\C#\ArraysV2\ArraysV2\obj\Debug\ArraysV2.csprojAssemblyReference.cache
+E:\Practice\C#\ArraysV2\ArraysV2\obj\Debug\ArraysV2.csproj.CoreCompileInputs.cache
+E:\Practice\C#\ArraysV2\ArraysV2\obj\Debug\ArraysV2.exe
+E:\Practice\C#\ArraysV2\ArraysV2\obj\Debug\ArraysV2.pdb
